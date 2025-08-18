@@ -71,4 +71,4 @@
 
 - ✍🏻 [My CV in English](https://github.com/jmfayard/hire-me/blob/main/CV%20Jean%20Michel%20EN.pdf)
 - 📫 My email :  [jmfayard@gmail.com](https://jmfayard.dev/contact/)
-- 📆 My availibilities : https://cal.com/jmfayard/20-minutes
+- 📆 My availibilities : https://cal.com/jmfayard/20minutes
